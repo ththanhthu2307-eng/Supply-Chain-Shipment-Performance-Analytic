@@ -594,37 +594,30 @@ provides a more complete view of supply chain performance and helps identify whe
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 Supply-Chain-Shipment-Performance-Analytics/
 │
 ├── data/
 │   ├── raw/
-│   │   └── delivery_logistics.csv
+│   │   └── Delivery_Logistics.csv
 │   │
 │   └── processed/
-│       └── delivery_logistics_clean.csv
+│       └── Delivery_logistics_clean.csv
 │
 ├── notebooks/
 │   └── shipment_data_preparation.ipynb
 │
-├── sql/
-│   └── shipment_analysis.sql
-│
 ├── powerbi/
-│   └── Supply_Chain_Shipment_Performance.pbix
-│
-├── screenshots/
-│   ├── dashboard_page_1.png
-│   └── dashboard_page_2.png
+│   └── Delivery.pbix
 │
 └── README.md
 ```
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ## Page 1 — Supply Chain & Shipment Performance Analytics
 
@@ -659,8 +652,6 @@ Supply-Chain-Shipment-Performance-Analytics/
 ### Data & Database
 
 * Python
-* MySQL
-* SQL
 * Data Quality Controls
 
 ### Supply Chain & Logistics
